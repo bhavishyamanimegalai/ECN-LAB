@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+## NAME: BHAVISHYA M
+## REF NO: 25011325
 
 **AIM:**
 
@@ -25,8 +27,13 @@
 **CIRCUIT DIAGRAM:**
 
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/bef8fd8a-f49c-44dc-bde9-ed4f44a3e01e" />
 
+<img width="738" height="1280" alt="image" src="https://github.com/user-attachments/assets/8e0d01c6-292d-43e4-8c09-1ca68db9d740" />
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/66a7ccdb-c90f-48d5-85ef-cb790f77f582" />
+
+<img width="768" height="1280" alt="image" src="https://github.com/user-attachments/assets/79b8d85f-89a5-4b5a-826c-fad1cb65e5d9" />
 
 
 
