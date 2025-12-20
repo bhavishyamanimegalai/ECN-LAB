@@ -1,5 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
-
+## NAME: BHAVISHYA M
+## REF NO:25011325
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
@@ -23,17 +24,10 @@
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
 **CIRCUIT DIAGRAM:**
-
-
-
-
-
-
-
-
-
-
-
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3f2e33a7-60da-4182-be7b-e5981ef37866" />
+<img width="738" height="1280" alt="image" src="https://github.com/user-attachments/assets/9fe22e06-0546-4e5a-a861-f80dd144fd12" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9d858bf5-d90b-442f-8509-d03c43caeab6" />
+<img width="768" height="1280" alt="image" src="https://github.com/user-attachments/assets/b23adae9-8c51-4783-88e6-6cb5e00dd2fc" />
 
 **PROCEDURE:**
 
